@@ -1,0 +1,19 @@
+{
+    "noticias": [
+        {
+            "titulo": "Nuevo curso de Desarrollo Web",
+            "descripcion": "Lanzamos un nuevo curso intensivo de desarrollo web. ¡Inscríbete ya!",
+            "fecha": "2024-09-29"
+        },
+        {
+            "titulo": "Bootcamp de programación móvil",
+            "descripcion": "Aprende a desarrollar apps para iOS y Android con nuestro nuevo bootcamp.",
+            "fecha": "2024-10-05"
+        },
+        {
+            "titulo": "Mentoría personalizada ahora disponible",
+            "descripcion": "Comienza a recibir mentoría uno a uno con nuestros expertos.",
+            "fecha": "2024-09-15"
+        }
+    ]
+}
